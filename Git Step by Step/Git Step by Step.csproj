@@ -114,6 +114,7 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Controllers\DefaultController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
